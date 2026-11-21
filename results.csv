@@ -1,0 +1,3 @@
+student_id,student_name,criterion_id,criterion_name,score,max_score,weight,comment,result
+std1,Ivanov Ivan,cr1,Бобр,8.00,11.00,0.30,Бобренок,7.56
+std1,Ivanov Ivan,cr2,Добр,7.00,9.00,0.40,Добряк,7.56
